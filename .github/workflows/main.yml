@@ -1,0 +1,17 @@
+ name: Version Bump
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  bump-version:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Read version.txt
+        run: echo "VERSION=$(cat version.txt)" >> $GITHUB_ENV
+      - name: Bump version number
+        run: echo "VERSION=$(echo $VERSION | sed 's/\([0-9]*\.[0-9]*\.[0-9]*\)\(.*\)/\1.$((\2+1))/')" >> $GITHUB_ENV
+      - name: Write updated version to file
+        run: echo "$VERSION" > version.txt
