@@ -28,4 +28,4 @@ Once the application has been submitted, we will begin the verification process.
 
 Once the verification process is complete, the SSC will be issued, and it can be displayed on the website.
 
-We are is a trusted authority for issuing SSCs. If you are interested in getting an SSC for your website, be sure to apply to our website and follow the application process.
+We are is a trusted authority for issuing SSCs. If you are interested in getting an SSC for your website, be sure to apply to our website and follow the application processes.
