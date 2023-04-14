@@ -8,7 +8,7 @@ In today's digital world, online security is a growing concern for many people. 
 
 ## How does SSC work?
 
-When a website applies for an SSC, they undergo a rigorous verification process to ensure that they meet the standards set by SSC.com. This verification process may include checks on the website owner's identity, business registration, and other security-related details.
+When a website applies for an SSC, they undergo a rigorous verification process to ensure that they meet the standards set by us. This verification process may include checks on the website owner's identity, business registration, and other security-related details.
 
 Once a website has been verified, the SSC is issued, and it can be displayed on the website. Website visitors can then click on the SSC to view information about the certificate and to verify that it is valid.
 
@@ -22,10 +22,10 @@ There are several benefits to having an SSC, including:
 
 ## How to get an SSC
 
-To get an SSC, website owners need to apply to SSC.com. The application process may vary depending on the complexity of the website, but generally, website owners will need to provide some basic information about their site and their business.
+To get an SSC, website owners need to apply to our website. The application process may vary depending on the complexity of the website, but generally, website owners will need to provide some basic information about their site and their business.
 
-Once the application has been submitted, SSC.com will begin the verification process. This process may take a few days to a few weeks, depending on the complexity of the application.
+Once the application has been submitted, we will begin the verification process. This process may take a few days to a few weeks, depending on the complexity of the application.
 
 Once the verification process is complete, the SSC will be issued, and it can be displayed on the website.
 
-SSC.com is a trusted authority for issuing SSCs. If you are interested in getting an SSC for your website, be sure to apply to SSC.com and follow their application process.
+We are is a trusted authority for issuing SSCs. If you are interested in getting an SSC for your website, be sure to apply to our website and follow the application process.
